@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin name: Blockhaus Custom Post Types
+Plugin name: Trajectories Custom Post Types
 Description: Custom post types for this website. Deactivating this plugin will disable all post types except for pages and posts.
 Text Domain: blockhaus
 */
